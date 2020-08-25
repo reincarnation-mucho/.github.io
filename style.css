@@ -1,0 +1,102 @@
+.header{
+ background-color:#FFDEA5;
+ height:110px;
+}
+
+.header-logo{
+ font-size:60px;
+ float:left;
+ padding:20px 10px;
+}
+
+.header-list li{
+ font-size:15px;
+ list-style:none;
+ float:left;
+ padding:35px 10px 0px 10px;
+}
+
+h2{
+ color: red;
+ font-size:20px;
+ padding:10px;
+ text-align:center;
+}
+
+.contents{
+ padding: 0.5em 1em;
+ margin: 2em 0;
+ font-weight: bold;
+ color: #6091d3;
+ background: #FFF;
+ border: solid 3px #6091d3;
+ border-radius: 10px;
+}
+
+li{
+ list-style:none;
+}
+
+.mokuji{
+ color:#ffa07a;
+ font-size:25px;
+ margin:0;
+ padding:0;
+}
+
+.moji{
+ padding: 0.5em 1em;
+ margin: 2em 0;
+ background: whitesmoke;
+ border-left: double 7px #4ec4d3;
+ border-right: double 7px #4ec4d3;
+ font-size:30px;
+ color:#483d8b;
+}
+
+.box{
+ padding:0.5em 1em;
+ margin:0.5em 0;
+ color:#232323;
+ background-color:#fff8e8;
+ border-left:solid 10px #ffc06e;
+}
+
+.people{
+ margin:0;
+ padding:0;
+ font-size:20px;
+ }
+
+.picture{
+ width:100px;
+ float:right;
+ margin:0 0 0 0;
+}
+
+.name{
+ font-size:10px;
+ text-align:center;
+}
+
+.sentence{
+ font-size:18px;
+}
+
+.footer{
+ background-color:#FFDEA5;
+ height:80px;
+}
+
+.footer-logo{
+ font-size:40px;
+ float:left;
+ padding:20px 10px;
+}
+
+.footer-note{
+ font-size:20px;
+ float:left;
+ padding:20px 10px;
+}
+
